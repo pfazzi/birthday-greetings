@@ -1,0 +1,11 @@
+first_name,last_name,birthday,email,phone_number
+Zechariah,Murphy,2014-07-01,zechariah61@gmail.com,8081526209
+Antonette,Gulgowski,2006-10-10,antonette13@yahoo.com,8666305795
+Abe,Kshlerin,1989-09-19,abe.kshlerin@hotmail.com,6350383368
+Dante,Boyle,1985-08-10,dante.boyle79@yahoo.com,4034242388
+Jermey,Wiza,1993-05-19,jermey3@yahoo.com,9934276027
+Noelia,Goyette,2015-03-06,noelia_goyette18@gmail.com,5087694917
+Helen,Wilderman,2008-01-07,helen.wilderman@hotmail.com,4621173753
+Kaycee,Raynor,2013-01-23,kaycee_raynor7@yahoo.com,3086829398
+Beverly,Osinski,1975-04-13,beverly70@hotmail.com,2581004120
+Clifton,Dooley,1971-07-19,clifton_dooley@hotmail.com,0157112625

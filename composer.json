@@ -1,0 +1,12 @@
+{
+    "name": "patrickfazzi/birthday-greetings",
+    "require-dev": {
+        "phpunit/phpunit": "^11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Patrickfazzi\\BirthdayGreetings\\": "src/",
+            "Patrickfazzi\\BirthdayGreetings\\Tests\\": "tests/"
+        }
+    }
+}
